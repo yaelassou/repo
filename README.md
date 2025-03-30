@@ -2,11 +2,11 @@
 
 # repo
 
-![](img/yaels repo.png){width="200"}
+![](img/yaels%20repo.png){width="250"}
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yaelassou/repo/master?urlpath=rstudio)
 
-This repository contains the data and code for my paper:
+This repository contains the data and code for our paper:
 
 > Assouline, Yael, (2025). *`Yael's repo`*. Name of journal/book <https://doi.org/xxx/xxx>
 
