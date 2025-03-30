@@ -1,8 +1,8 @@
 <!-- README.md is generated from README.Qmd. Please edit that file -->
 
-![](img/desktop-wallpaper-light-gradient-purple-pattern-backgrounds-light-purple-gradient.jpg)
-
 # repo
+
+![](img/yael's repo.png){width="200"}
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yaelassou/repo/master?urlpath=rstudio)
 
