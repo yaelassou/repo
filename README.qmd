@@ -7,6 +7,8 @@ editor:
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+![](img/desktop-wallpaper-light-gradient-purple-pattern-backgrounds-light-purple-gradient.jpg)
+
 ```{r, echo = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
@@ -28,8 +30,8 @@ This repository contains the data and code for our paper:
 
 Our pre-print is online here:
 
-> Assouline, Yael, (2025). *`Yael's repo`*. Name of journal/book, Accessed
-> `r format(Sys.Date(), "%d %b %Y")`. Online at
+> Assouline, Yael, (2025). *`Yael's repo`*. Name of journal/book,
+> Accessed `r format(Sys.Date(), "%d %b %Y")`. Online at
 > <https://doi.org/xxx/xxx>
 
 ### How to cite
