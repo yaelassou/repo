@@ -2,7 +2,9 @@
 
 # repo
 
-[![](img/yaels%20repo.png){width="200"}](https://github.com/yaelassou/repo)
+<a href="https://github.com/yaelassou/repo">
+  <img src="img/yaels%20repo.png" alt="Yael's repo" width="200">
+</a>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yaelassou/repo/master?urlpath=rstudio)
 
