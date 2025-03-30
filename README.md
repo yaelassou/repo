@@ -1,12 +1,12 @@
 <!-- README.md is generated from README.Qmd. Please edit that file -->
 
-![](img/desktop-wallpaper-light-gradient-purple-pattern-backgrounds-light-purple-gradient.jpg)
-
 # repo
+
+![](img/yaels repo.png){width="200"}
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yaelassou/repo/master?urlpath=rstudio)
 
-This repository contains the data and code for our paper:
+This repository contains the data and code for my paper:
 
 > Assouline, Yael, (2025). *`Yael's repo`*. Name of journal/book <https://doi.org/xxx/xxx>
 
