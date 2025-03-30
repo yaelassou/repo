@@ -1,12 +1,8 @@
 <!-- README.md is generated from README.Qmd. Please edit that file -->
 
 # repo
-
-<<<<<<< HEAD
-![](img/yaels%20repo.png){width="250"}
-=======
-![](img/yael's repo.png){width="200"}
->>>>>>> ab57d8ac3d644b71b620caa02b95237cb42540c1
+ 
+![](img/yaels repo.png){width="200"}
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yaelassou/repo/master?urlpath=rstudio)
 
