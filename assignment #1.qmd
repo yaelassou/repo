@@ -6,16 +6,19 @@ editor: visual
 
 1.  **Summarize in your own words: What is the research question of the article?**
 
-    The article asks how data analysis work can be organized and shared in a way that is reproducible, inspect-able, and extensible across academic disciplines. More specifically, it examines whether using R packages (a tool typically reserved for software development) can serve as a structured and standardized format for presenting research workflows, turning data analysis into a kind of reusable research product.
+    The article asks how data analysis work can be organized and shared in a way that is reproducible, inspect-able, and extensible across academic disciplines. 
+More specifically, it examines whether using R packages (a tool typically reserved for software development) can serve as a structured and standardized format for presenting research workflows, turning data analysis into a kind of reusable research product.
 
 2.  **What are the core principles of reproducible research?**
 
     Reproducible research rests on three fundamental principles:\
 
-    a)  It requires a clear organizational structure: files, scripts, and data should be arranged in a transparent, understandable way.\
-    b)  It emphasizes separation and traceability. Data, methods, and results should be distinct yet easily linkable so that others can follow how outputs are derived.\
+    a)  It requires a clear organizational structure: files, scripts, and data should be arranged in a transparent, understandable way.
+    b)  It emphasizes separation and traceability. Data, methods, and results should be distinct yet easily linkable so that others can follow how outputs are derived.
     c)  It demands explicit documentation of the computational environment, including software versions and dependencies, so that others can recreate the exact conditions in which the original analysis was performed.
 
 3.  **How does this differ from classical research methods in archaeology and history?**
 
-    Traditional research in archaeology and history tends to be less standardized and more narrative-driven. These fields often rely on interpretive texts, archival work, or physical artifacts, rather than structured digital workflows. Because of that, findings are often hard to reproduce computationally. By contrast, the model proposed in this article introduces a systematic, code-based approach that makes every step in the research process transparent and repeatable, something that is not typically prioritized in the classical methods of historical or archaeological scholarship.
+    Traditional research in archaeology and history tends to be less standardized and more narrative-driven. These fields often rely on interpretive texts, archival work, or physical artifacts, rather than structured digital workflows. 
+Because of that, findings are often hard to reproduce computationally. 
+By contrast, the model proposed in this article introduces a systematic, code-based approach that makes every step in the research process transparent and repeatable, something that is not typically prioritized in the classical methods of historical or archaeological scholarship.
